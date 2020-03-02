@@ -10,7 +10,8 @@ Authored by [MyungHoon-Jin](https://www.github.com/jinmang2)
 #### Essential Calculus
 #### Analysis
 #### Real Analysis (Measure Theory)
-#### Stochastic Differential Equation(SDE)
+#### Ordinary Differential Equation (ODE)
+#### Stochastic Differential Equation (SDE)
 #### Financial Mathematics
 #### Topology & Distance Space Theory
 #### Linear Algebra
@@ -18,3 +19,4 @@ Authored by [MyungHoon-Jin](https://www.github.com/jinmang2)
 #### Set Theory
 #### Number Theory
 #### Statistics & Probabilities
+#### Options, Futures and other Derivatives
