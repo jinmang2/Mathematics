@@ -1,5 +1,8 @@
 # Mathematics
 Authored by [MyungHoon-Jin](https://www.github.com/jinmang2)
+
+교재: [Mathematics for Machine Learning](https://mml-book.github.io/book/mml-book.pdf)
+
 ## 본 repo의 위상
 - 학부 시절 들은 전공 내역을 기록하고 복습한다.
 - Machine Learning / Deep Learning을 구현하고 사용하는 이론적인 근거를 마련한다.
